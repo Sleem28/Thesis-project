@@ -13,7 +13,7 @@
 
 *Получим следующую картину:*
 
-!["terminal mt5"](Images\terminal.jpg)
+!["terminal mt5"](https://github.com/Sleem28/Thesis-project/blob/main/Images/terminal.jpg)
 
 **Терминал установлен.**
 
@@ -24,34 +24,34 @@
 
 *Для открытия среды разработки нажмите на кнопку IDE в левом верхнем углу терминала.*
 
-!["IDE MQL5"](Images\IDE_button.jpg)
+!["IDE MQL5"](https://github.com/Sleem28/Thesis-project/blob/main/Images/IDE_button.jpg)
 
 *Откроеется IDE MQL5.* 
 
-!["IDE"](Images\IDE.jpg)
+!["IDE"](https://github.com/Sleem28/Thesis-project/blob/main/Images/IDE.jpg)
 
 Подробнее по функционалу IDE можно почитать в справке.
 
 Далее необходимо скопировать файлы из текущего репозитория github в терминал. Для этого нужно открыть папку с файлами пользователя. Нужно перейти по пути File -> Open Data Folder. 
 
-!["ODF"](Images\ODF.jpg)
+!["ODF"](https://github.com/Sleem28/Thesis-project/blob/main/Images/ODF.jpg)
 
 и зайти в папку MQL5. 
 
-!["ODF"](Images\OF_MQL5.jpg)
+!["ODF"](https://github.com/Sleem28/Thesis-project/blob/main/Images/OF_MQL5.jpg)
 
 Далее из репозитория нужно склонировать файлы в директорию MQL5. Из директории Experts скопировать содержимой в папку Experts терминала. Из директории Includes скопировать содержимой в папку Includes терминала.
 
 После копирования в проводнике IDE будут видны скопированные файлы.
 
-!["Проводник"](Images\Explorer.jpg)
+!["Проводник"](https://github.com/Sleem28/Thesis-project/blob/main/Images/Explorer.jpg)
 
 ## 3. Запуск и тестирование торговой системы
 
 Для запуска необходимо открыть терминал, найти эксперт S28_EA_v.1.0, и перетянуть его на график.
 
-!["EA"](Images\EA.jpg)
+!["EA"](https://github.com/Sleem28/Thesis-project/blob/main/Images/EA.jpg)
 
  Согласится с настройками и увидим примерно такую картину.
 
-!["Runned_EA"](Images\Runned_EA.jpg)
+!["Runned_EA"](https://github.com/Sleem28/Thesis-project/blob/main/Images/Runned_EA.jpg)
