@@ -8,9 +8,25 @@
 
 enum EntryPointType
 {
-   TypeSLOnCorrection,
-   TypeSlOnImpulse,
+   TypeAfterBreakdownSlOnCorrection,
+   TypeAfterBreakdownSlOnImpulse,
    TypeTrendTrade,
    TypeTwoOrdersOnSwing,
-   TypeEntryFromBreakoutLevel
+   TypeEntryFromBreakoutLevel,
+   TypeEntryFromZone,
+   UseAllEntryTypes
+};
+
+enum LocalTrend
+{
+   TrendUp,
+   TrendDown,
+   NoTrend
+};
+
+enum STrend
+{
+   Trend_Up,
+   Trend_Down,
+   No_Trend
 };
